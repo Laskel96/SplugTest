@@ -6,7 +6,7 @@
 
 int main()
 {
-	printf("Hello splug");
+	printf("Hello   splug");
     return 0;
 }
 
